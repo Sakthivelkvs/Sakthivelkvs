@@ -7,7 +7,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthivelkvs&label=Profile%20views&color=0e75b6&style=flat" alt="sakthivelkvs" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@sakthivel512316" target="blank"><img src="https://img.shields.io/twitter/follow/@sakthivel512316?logo=twitter&style=for-the-badge" alt="@sakkthiii_" /></a> </p>
+<p align="left">
+  <a href="https://www.instagram.com/sakkthiii_/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-@sakkthiii_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@sakkthiii_" />
+  </a>
+</p>
+
 
 - 💬 Ask me about **Django, Java and Python**
 
