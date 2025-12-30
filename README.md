@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthivelkvs&label=Profile%20views&color=0e75b6&style=flat" alt="sakthivelkvs" /> </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/sakkthiii_/" target="blank">
+  <a href="https://www.instagram.com/sakthiiii__._/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-@sakkthiii_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@sakkthiii_" />
   </a>
 </p>
